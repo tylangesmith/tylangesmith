@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**tylangesmith/tylangesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Machine Learning Engineer** working remotely in Australia 🦘. 
 
-Here are some ideas to get you started:
+RECENTLY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Building an AI driven SaaS Side Hustle
+- ☁️ Building Data / ML Platforms in the Cloud
+- 💅 Trying to Blog over at [tylangesmith.com](https://tylangesmith.com)
+
+BIOGRAPHY
+
+- 🏢 Currently working at nib Group
+- 📜 Degree in Software Engineering 
+- 🗿 DevOps Engineer in a Previous Life
+- 🌱 Currently Learning All About Machine Learning
+- 🌍 Evangelist at Heart Enjoying the Ride
+- ⚡️ Fun Fact: Daily [GitHub Trending](https://github.com/trending) and [Indie Hackers](https://www.indiehackers.com/) Explorer
