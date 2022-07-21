@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **Machine Learning Engineer** working remotely in Australia 🦘. 
+I'm a **Senior Machine Learning Engineer** working remotely in Australia 🦘. 
 
 RECENTLY
 
