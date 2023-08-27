@@ -6,12 +6,12 @@ RECENTLY
 
 - ✨ Building an AI driven SaaS Side Hustle
 - ☁️ Building Data / ML Platforms in the Cloud
-- 💅 Trying to Blog over at [tylangesmith.com](https://tylangesmith.com)
+- 📜 Studying a Masters of Data Science
 
 BIOGRAPHY
 
 - 🏢 Currently working at nib Group
-- 📜 Degree in Software Engineering 
+- 📜 Degree in Software Engineering
 - 🗿 DevOps Engineer in a Previous Life
 - 🌱 Currently Learning All About Machine Learning
 - 🌍 Evangelist at Heart Enjoying the Ride
